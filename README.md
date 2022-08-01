@@ -74,3 +74,7 @@
 - [0x0C](./0x0C-more_malloc_free) : More malloc, free.
 
 - [0x0D](./0x0D-preprocessor) : Preprocessor.
+
+- [0x1E](./0x1E-search_algorithms) : Search Algorithms.
+
+
