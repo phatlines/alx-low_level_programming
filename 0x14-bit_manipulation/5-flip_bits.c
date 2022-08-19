@@ -11,14 +11,14 @@ nclude "main.h"
 
 unsigned int flip_bits(unsigned long int n, unsigned long int m)
 {
-		unsigned int count = 0;
-			unsigned long int bit;
+	unsigned int count = 0;
+	unsigned long int bit;
 
-				bit = n ^ m;
-					while (bit > 0)
-							{
-										count++;
-												bit &= (bit - 1);
-													}
-						return (count);
+	bit = n ^ m;
+	while (bit > 0)
+	{
+		count++;
+		bit &= (bit - 1);
+	}
+	return (count);
 }
