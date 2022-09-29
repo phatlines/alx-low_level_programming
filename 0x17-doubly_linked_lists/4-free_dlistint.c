@@ -1,8 +1,3 @@
-/*
- * File: 4-free_dlistint.c
- * 
- */
-
 #include "lists.h"
 
 /**
