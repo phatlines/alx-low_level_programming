@@ -1,0 +1,6 @@
+[submodule "simple_shell"]
+	path = simple_shell
+	url = https://github.com/phatlines/simple_shell.git
+[submodule "0x16-Simple_Shell"]
+	path = 0x16-Simple_Shell
+	url = https://github.com/phatlines/simple_shell.git
